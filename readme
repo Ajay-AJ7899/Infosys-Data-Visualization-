@@ -1,6 +1,50 @@
 Infosys _FoodTrends Understanding Customer Preferences in FB - Group 1
 
+* Name: D A Ajay
+* Role: Data Visualization Intern at Infosys
+* Tool Used: Power BI
 
-Name: D A AJAY
-
+📖 Project Overview
+This project focuses on analyzing food consumption patterns, nutrient impacts, and lifestyle influences using interactive dashboards. Each milestone highlights key insights derived from data to support better decision-making in the food and beverage domain.
 Worked on 4 MILESTONE'S:
+
+
+🔹 Milestone 1: Dietary Preferences and Averages
+Analyzed user dietary patterns
+Identified average consumption trends
+Visualized category-wise food preferences
+
+![Dashboard 1](./milestone-1.png)  >>Preview
+
+dataset link: https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset
+
+🔹 Milestone 2: Nutrients and Diseases
+Explored relationships between nutrients and diseases
+Highlighted key risk factors
+Built comparative visual reports
+
+![Dashboard 2](./milestone-2.png)  >>Preview
+
+dataset link: https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset
+
+🔹 Milestone 3: Averages by Breakfast Suggestion
+Generated breakfast recommendations based on averages
+Created visual insights for healthier choices
+
+
+![Dashboard 3](./milestone-3.png)  >>Preview
+
+dataset link: https://www.kaggle.com/datasets/ziya07/diet-recommendations-dataset
+
+🔹 Milestone 4: Lifestyle and Nutrition Impact
+Studied how lifestyle factors affect nutrition
+Built correlation dashboards between habits and health outcomes
+
+![Dashboard 4](./milestone-4.png)  >>Preview
+
+datset link: https://fdc.nal.usda.gov/download-datasets
+
+
+<p align="center">
+  <img src="./milestone-1.png" width="700" alt="Dashboard 1"/>
+</p>
