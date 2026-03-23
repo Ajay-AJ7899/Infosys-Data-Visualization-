@@ -4,7 +4,7 @@
 * Role: Data Visualization Intern at Infosys
 * Tool Used: Power BI
 
-# Project Overview
+## Project Overview
 This project focuses on analyzing food consumption patterns, nutrient impacts, and lifestyle influences using interactive dashboards. Each milestone highlights key insights derived from data to support better decision-making in the food and beverage domain.
 Worked on 4 MILESTONE'S:
 
@@ -17,7 +17,7 @@ Visualized category-wise food preferences
 
 >>preview
 <p align="center"> 
-  <img src="./milestone-1.png" width="700" alt="Dashboard 1"/>
+  <img src="./images/milestone-1.png" width="700" alt="Dashboard 1"/>
 </p>
 dataset link: https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset
 
@@ -28,7 +28,7 @@ Built comparative visual reports
 
 >>preview
 <p align="center">
-  <img src="./milestone-2.png" width="700" alt="Dashboard 1"/>
+  <img src="./images/milestone-2.png" width="700" alt="Dashboard 1"/>
 </p>
 dataset link: https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset
 
@@ -37,7 +37,7 @@ Generated breakfast recommendations based on averages
 Created visual insights for healthier choices
 >>preview
 <p align="center">
-  <img src="./milestone-3.png" width="700" alt="Dashboard 1"/>
+  <img src="./images/milestone-3.png" width="700" alt="Dashboard 1"/>
 </p>
 dataset link: https://www.kaggle.com/datasets/ziya07/diet-recommendations-dataset
 
@@ -46,7 +46,7 @@ Studied how lifestyle factors affect nutrition
 Built correlation dashboards between habits and health outcomes
 >>preview
 <p align="center">
-  <img src="./milestone-4.png" width="700" alt="Dashboard 1"/>
+  <img src="./images/milestone-4.png" width="700" alt="Dashboard 1"/>
 </p>
 datset link: https://fdc.nal.usda.gov/download-datasets
 
