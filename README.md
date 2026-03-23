@@ -9,10 +9,11 @@ This project focuses on analyzing food consumption patterns, nutrient impacts, a
 Worked on 4 MILESTONE'S:
 
 
-🔹 Milestone 1: Dietary Preferences and Averages
-Analyzed user dietary patterns
-Identified average consumption trends
-Visualized category-wise food preferences
+## 🔹 Milestone 1: Dietary Preferences and Averages
+
+Analyzed user dietary patterns  
+Identified average consumption trends  
+Visualized category-wise food preferences  
 
 ![Dashboard 1](./milestone-1.png)  >>Preview
 
