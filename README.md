@@ -51,3 +51,4 @@ Built correlation dashboards between habits and health outcomes
 datset link: https://fdc.nal.usda.gov/download-datasets
 
 
+<p align="center"> <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi"/> <img src="https://img.shields.io/badge/Data-Kaggle-blue?style=for-the-badge&logo=kaggle"/> <img src="https://img.shields.io/badge/Skills-Data%20Analytics-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Focus-Healthcare%20Insights-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Internship-Infosys%20Springboard-purple?style=for-the-badge"/> </p>
